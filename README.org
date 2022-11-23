@@ -2,5 +2,6 @@
 
 Love org-mode.
 
+#+begin_src html
 <a rel="me" href="https://fosstodon.org/@nickanderson">Mastodon</a>
-
+#+end
