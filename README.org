@@ -2,12 +2,5 @@
 
 Love org-mode.
 
-#   64 followers · 25 following
-# @NorthernTechHQ @cfengine @mendersoftware @zenery
-#$Lawrence, KS
-#15:25 (UTC -06:00)
-#$nick@cmdln.org
-#$http://www.cmdln.org
-#@_cmdln 
-
+<a rel="me" href="https://fosstodon.org/@nickanderson">Mastodon</a>
 
