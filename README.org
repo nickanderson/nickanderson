@@ -1,7 +1,1 @@
-#+Title: Nick Anderson
-
-Love org-mode.
-
-#+begin_src html
-<a rel="me" href="https://fosstodon.org/@nickanderson">Mastodon</a>
-#+end_src
+I Love org-mode and CFEngine.
